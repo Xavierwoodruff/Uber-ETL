@@ -29,20 +29,20 @@ Answer:
 <h2>Program walk-through:</h2>
 
 <p align="center">
-Created Database: <br/>
-<img src="https://imgur.com/TcwGJO4.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Created Table: <br/>
+<img src="https://imgur.com/11twyHl.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Transformed Data Using SQL: <br/>
-<img src="https://imgur.com/40ZFi99.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/imAKOxE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Cleansed Raw Data:  <br/>
-<img src="https://imgur.com/k4X8J1P.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Cleansed Data:  <br/>
+<img src="https://imgur.com/YXvEah9.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Created Views:  <br/>
-<img src="https://imgur.com/sMlFJgN.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/bi18lcN.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Connected Database to Power BI:  <br/>
