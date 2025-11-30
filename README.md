@@ -46,7 +46,7 @@ Created Views:  <br/>
 <br />
 <br />
 Connected Database to Power BI:  <br/>
-<img src="https://imgur.com/DJ2xBsF.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/NtuMRC5.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Completed Visuals:  <br/>
