@@ -50,7 +50,7 @@ Connected Database to Power BI:  <br/>
 <br />
 <br />
 Completed Visuals:  <br/>
-<img src="https://imgur.com/Q0rawCa.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/BGT0vm3.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 </p>
