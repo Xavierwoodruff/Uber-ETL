@@ -21,6 +21,7 @@ Answer:
 
 - <b>PostgreSQL</b> 
 - <b>Power-BI</b>
+- <b>Power Query</b>
 
 <h2>Environments Used </h2>
 
@@ -30,27 +31,31 @@ Answer:
 
 <p align="center">
 Created Table: <br/>
-<img src="https://imgur.com/11twyHl.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/YQFdotE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Transformed Data Using SQL: <br/>
-<img src="https://imgur.com/imAKOxE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/UhdgsR3.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Cleansed Data:  <br/>
-<img src="https://imgur.com/YXvEah9.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/2EJXDpF.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Created Views:  <br/>
-<img src="https://imgur.com/bi18lcN.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/6HBJEC5.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Connected Database to Power BI:  <br/>
-<img src="https://imgur.com/NtuMRC5.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/p8L9Pic.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Transfrom Data Using Power Query:  <br/>
+<img src="https://imgur.com/63djJph.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Completed Visuals:  <br/>
-<img src="https://imgur.com/BGT0vm3.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/1u72ffd.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 </p>
