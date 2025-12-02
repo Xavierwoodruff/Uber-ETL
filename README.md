@@ -21,7 +21,6 @@ Preliminary analysis suggests there may also be potential revenue leakage, as th
 
 A more in-depth investigation is recommended to determine the root cause of these variances.
 
-<br />
 
 
 <h2>Languages and Utilities Used</h2>
