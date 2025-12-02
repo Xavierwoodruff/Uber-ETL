@@ -13,7 +13,7 @@ Next, I wrote a SQL query using a Common Table Expression (CTE) to aggregate and
 In Power BI, I connected to the view and developed an interactive dashboard with visualizations that allowed for patterns and trends to be identified and answer Mangement or Stackholder questions. 
 
 
-
+<h2>Answer</h2>
 
 **Answer:** After reviewing the data, several concerning findings have been identified. Most notably, there is a significant ride-cancellation rate, with approximately one in four rides (25%) being cancelled. In addition, our shortfall in earnings—calculated using average ride fares—appears to be higher than expected.
 
