@@ -14,6 +14,7 @@ In Power BI, I connected to the view and developed an interactive dashboard with
 
 
 
+
 **Answer:** After reviewing the data, several concerning findings have been identified. Most notably, there is a significant ride-cancellation rate, with approximately one in four rides (25%) being cancelled. In addition, our shortfall in earnings—calculated using average ride fares—appears to be higher than expected.
 
 Preliminary analysis suggests there may also be potential revenue leakage, as the reported figures do not align with projected earnings based on average shortfall fares multiplied by total ride volume. This discrepancy could indicate up to $30,000 in unaccounted revenue.
